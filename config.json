@@ -1,0 +1,29 @@
+{
+    "default": "test",
+    "forumPostChannelId": [
+        "id_forum_n1",
+        "id_forum_n2"
+    ],
+    "forumPostMessage": [
+        "message_forum_n1",
+        "message_forum_n2"
+    ],
+    "forumPostTitle": [
+        "Title_Embed_post_n1",
+        "Title_Embed_post_n2"
+    ],
+    "forumPostButtons": {
+            "id_forum_n1": [
+                {
+                    "label": "Google",
+                    "url": "https://google.fr"
+                }
+            ],
+            "id_forum_n2": [
+                {
+                    "label": "Google",
+                    "url": "https://pastebin.com"
+                }
+            ]
+        }
+}
