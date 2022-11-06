@@ -73,7 +73,7 @@ TOKEN = token_discord
 
 <h2>Credits</h2>
 
-- Creator : [UltraLion](https://github.com/UltraLionfr).
+- Author : [UltraLion](https://github.com/UltraLionfr)
 
 <hr>
 <h6 align=center>Please fork this project if you use it and put a star ❤️</h6>
