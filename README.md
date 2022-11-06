@@ -74,6 +74,7 @@ TOKEN = token_discord
 <h2>Credits</h2>
 
 - Author : [UltraLion](https://github.com/UltraLionfr)
+- Docs : [Discord.js.org](https://discord.js.org/#/docs/discord.js/main/general/welcome)
 
 <hr>
 <h6 align=center>Please fork this project if you use it and put a star ❤️</h6>
